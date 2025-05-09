@@ -44,14 +44,4 @@ I'm a passionate student from Aboozar school who loves coding with friends. I be
   </a>
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alirezabaharloo&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
-</div>
