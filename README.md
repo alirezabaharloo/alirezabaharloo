@@ -20,7 +20,7 @@ I'm a passionate student from Aboozar school who loves coding with friends. I be
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,py,django,linux,docker,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,py,django,react,linux,docker,git" />
 </div>
 
 ## 📊 GitHub Stats
