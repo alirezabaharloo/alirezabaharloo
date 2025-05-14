@@ -21,7 +21,7 @@ I'm a passionate student from Aboozar school who loves coding with friends. I be
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alirezabaharloo&show_icons=true&theme=radical" alt="github stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezabaharloo&theme=radical" alt="streak stats" />
