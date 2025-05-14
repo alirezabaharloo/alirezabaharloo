@@ -19,16 +19,6 @@ I'm a passionate student from Aboozar school who loves coding with friends. I be
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,py,django,react,linux,docker,git" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezabaharloo&show_icons=true&theme=radical" alt="github stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezabaharloo&theme=radical" alt="streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabaharloo&layout=compact&theme=radical" alt="top languages" />
-</div>
-
 ## 🌐 Connect with Me
 
 <div align="left">
@@ -40,4 +30,13 @@ I'm a passionate student from Aboozar school who loves coding with friends. I be
   </a>
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alirezabaharloo&show_icons=true&theme=radical" alt="github stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezabaharloo&theme=radical" alt="streak stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabaharloo&layout=compact&theme=radical" alt="top languages" />
+</div>
 
