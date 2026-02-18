@@ -26,15 +26,6 @@ I actively use AI as a coding partner to improve accuracy, write cleaner code, a
 </p>
 
 ---
-### 🚀 What I Love Building
-
-- Backend systems with Django & DRF  
-- Telegram bots with clean architecture  
-- Modern React frontends  
-- Async workflows with Redis & Celery  
-- Dockerized production environments  
-
----
 ## 🌐 Connect With Me
 
 <p>
