@@ -2,10 +2,6 @@
 
 <h3 align="center">💻 Full-Stack Developer | 🤖 AI-Assisted Builder | 🚀 Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alirezabaharloo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -23,38 +19,22 @@ I actively use AI as a coding partner to improve accuracy, write cleaner code, a
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
+### 👨‍💻 My Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,react,tailwind,docker,redis,vite,linux,git" />
 </p>
-
-### ⚙️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,react,tailwind" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,redis,vite,linux,git" />
-</p>
-
-### 🤖 Specialized
-
-- python-telegram-bot  
-- Django REST Framework  
-- Async workflows  
-- API design  
-- Clean Architecture  
 
 ---
+### 🚀 What I Love Building
 
-## 🌐 Connect With Me
+- Backend systems with Django & DRF  
+- Telegram bots with clean architecture  
+- Modern React frontends  
+- Async workflows with Redis & Celery  
+- Dockerized production environments  
 
+---
 ## 🌐 Connect With Me
 
 <p>
@@ -76,14 +56,5 @@ I actively use AI as a coding partner to improve accuracy, write cleaner code, a
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alirezabaharloo&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-## 🚀 What I Love Building
-
-- Backend systems with Django & DRF  
-- Telegram bots with clean architecture  
-- Modern React frontends  
-- Async workflows with Redis & Celery  
-- Dockerized production environments  
 
 ---
