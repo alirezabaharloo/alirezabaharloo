@@ -40,7 +40,7 @@ I actively use AI as a coding partner to improve accuracy, write cleaner code, a
 ### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,redis,celery,vite,linux,git" />
+  <img src="https://skillicons.dev/icons?i=docker,redis,vite,linux,git" />
 </p>
 
 ### 🤖 Specialized
@@ -55,25 +55,18 @@ I actively use AI as a coding partner to improve accuracy, write cleaner code, a
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p>
+  <a href="https://t.me/alirezaDID">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/alitech_01">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/channel/UC49ndVQVzrY-MJxSpUnGOhw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alirezabaharloo&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabaharloo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
 </p>
 
 ---
@@ -85,13 +78,6 @@ I actively use AI as a coding partner to improve accuracy, write cleaner code, a
 </p>
 
 ---
-
-## 🎯 Philosophy
-
-> Great code isn’t just working code — it’s readable, scalable, and continuously improving.
-
----
-
 ## 🚀 What I Love Building
 
 - Backend systems with Django & DRF  
@@ -101,13 +87,3 @@ I actively use AI as a coding partner to improve accuracy, write cleaner code, a
 - Dockerized production environments  
 
 ---
-
-## ⭐ Fun Fact
-
-I treat AI as my pair programmer — helping me refine ideas, improve code quality, and learn faster every day.
-
----
-
-<p align="center">
-⭐️ From <a href="https://github.com/alirezabaharloo">alirezabaharloo</a>
-</p>
