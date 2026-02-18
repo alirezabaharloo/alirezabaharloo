@@ -57,4 +57,3 @@ I actively use AI as a coding partner to improve accuracy, write cleaner code, a
   <img src="https://streak-stats.demolab.com?user=alirezabaharloo&theme=tokyonight&hide_border=true"/>
 </p>
 
----
